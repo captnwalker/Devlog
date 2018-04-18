@@ -1,8 +1,8 @@
-# DevLog
+# DevLog   :pencil:
 
 ## Purpose of this project
 
->DevLog is a React based log app using persistant browser storage with full CRUD functionality.
+>"DevLog" is an Angular based log app using persistant browser storage with full CRUD functionality.
 
 ### How to use
 
@@ -10,9 +10,10 @@
 
 ### Deployment
 
-~~This app has been deployed to gitpages and can be played by clicking the link below:~~
-
-~~(https://github.com/captnwalker/devlog.com/ "DevLog")~~
+1. Clone down repo
+2. Run `npm install`
+3. Reun `ng serve`in root
+4. Point browser to `localhost:4200/`
 
 ### Screenshot of this Project
 
@@ -20,16 +21,16 @@
 
 ### Technologies Utilized
 
-* React
+* Angular5
 * NodeJS
 * NPM
 * Bootstrap
 * JavaScript
 * HTML5
 * CSS3
+* Popper.js
+* Font Awesome
 
 ---
 
-### Author
-
-* **Steve Walker**  | [LinkedIn](https://www.linkedin.com/in/stevelwalker/)
+#### MIT
