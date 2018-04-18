@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  background: rgb(214, 190, 109) !important;
+}
+
+.card-body {
+  background: rgb(139, 184, 184) !important;
+}
