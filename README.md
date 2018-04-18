@@ -2,7 +2,7 @@
 
 ## Purpose of this project
 
->"DevLog" is an Angular based log app using persistent browser storage with full CRUD functionality.
+>"DevLog" is an Angular 5 based log app using persistent browser storage with full CRUD functionality.
 
 ### How to use
 
