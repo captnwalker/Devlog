@@ -1,4 +1,4 @@
-# DevLog   :pencil:
+# DevLog :pencil:
 
 ## Purpose of this project
 
@@ -21,16 +21,18 @@
 
 ### Technologies Utilized
 
-* Angular5
+* Angular 5
 * NodeJS
 * NPM
-* Bootstrap
+* Bootstrap 4
 * JavaScript
 * HTML5
-* CSS3
+* CSS-3
 * Popper.js
 * Font Awesome
 
 ---
+
+#### April 2018
 
 #### MIT
