@@ -2,7 +2,7 @@
 
 ## Purpose of this project
 
->"DevLog" is an Angular based log app using persistant browser storage with full CRUD functionality.
+>"DevLog" is an Angular based log app using persistent browser storage with full CRUD functionality.
 
 ### How to use
 
@@ -25,6 +25,7 @@
 * NodeJS
 * NPM
 * Bootstrap 4
+* TypeScript
 * JavaScript
 * HTML5
 * CSS-3
@@ -33,6 +34,4 @@
 
 ---
 
-#### April 2018
-
-#### MIT
+#### April 2018 | MIT
